@@ -2,7 +2,7 @@
 
 ### **Question 1:** Does pineapple belong on pizza?
 
-(Answer here)
+Whatever!
 
 ### **Question 2:** What campus study spot would you gatekeep?
 
